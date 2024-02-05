@@ -166,7 +166,6 @@ node_modules
 
 # Scratch files
 scratch*
-/mage_data*
 *secrets*.json
 *.json
 glossy-grin-413315-91e89e26d000.json
